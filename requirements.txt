@@ -10,3 +10,5 @@ google-generativeai
 pdfminer.six
 pdfplumber
 PyMuPDF
+PyPDF2
+
